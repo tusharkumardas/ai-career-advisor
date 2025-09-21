@@ -1,0 +1,5 @@
+[
+{"name": "Asha", "age": 17, "education": "12th - PCM", "free_text": "I like math, solved problems, learned python basics, did a small data analysis project in pandas"},
+{"name": "Rohit", "age": 19, "education": "1st year B.Tech", "free_text": "Built websites using HTML/CSS, interested in UX and frontend design, comfortable with JavaScript"},
+{"name": "Sneha", "age": 20, "education": "BSc Computer Science", "free_text": "I enjoy logic puzzles, read about machine learning, took an online ML course and built a Kaggle notebook"}
+]

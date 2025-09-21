@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Data Scientist",
+    "required_skills": ["Python", "Machine Learning", "Data Analysis", "SQL"],
+    "microprojects": [
+      "Build a sentiment analysis model",
+      "Kaggle competition on Titanic dataset"
+    ],
+    "resources": [
+      "https://www.kaggle.com/",
+      "https://www.coursera.org/learn/machine-learning"
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "required_skills": ["JavaScript", "React", "Node.js", "SQL"],
+    "microprojects": [
+      "Build a personal portfolio site",
+      "Develop a simple REST API with Node.js"
+    ],
+    "resources": [
+      "https://react.dev/",
+      "https://nodejs.dev/en/learn/"
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "required_skills": ["Cloud Computing", "Linux", "Python", "SQL"],
+    "microprojects": [
+      "Deploy a Flask app on AWS",
+      "Set up CI/CD pipeline on GCP"
+    ],
+    "resources": [
+      "https://cloud.google.com/training",
+      "https://aws.amazon.com/training/"
+    ]
+  }
+]
